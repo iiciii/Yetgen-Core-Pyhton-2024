@@ -1,0 +1,9 @@
+ürünler dosyası
+defter
+,50
+kitap
+ 30
+kalem 
+ 70
+kalemkutu 
+ 100
