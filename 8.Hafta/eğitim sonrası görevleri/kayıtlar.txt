@@ -1,0 +1,30 @@
+isim: iclal y�ld�r�mer 
+yas: 20
+ boy: 168.0cm 
+ , kilo: 60.0 kgv�cut kitle indeksi: 0.0021258503401360546 
+de�er aral���: zay�f 
+kay�t tarihi: Fri Aug 16 23:49:42 2024 
+
+isim: iclal yıldırımer 
+yas: 20
+ boy: 168.0cm 
+ , kilo: 60.0 kgvücut kitle indeksi: 0.0021258503401360546 
+değer aralığı: zayıf 
+kayıt tarihi: Fri Aug 16 23:50:42 2024 
+
+isim: iclal yıldırımer 
+yas: 20
+ boy: 168.0cm 
+  kilo: 60.0 kg 
+vücut kitle indeksi: 0.0021258503401360546 
+değer aralığı: zayıf 
+kayıt tarihi: Fri Aug 16 23:51:57 2024 
+
+isim: iclal yıldırımer
+yas: 20
+ boy: 168.0cm
+  kilo: 60.0 kg
+vücut kitle indeksi: 0.0021258503401360546
+değer aralığı: zayıf 
+kayıt tarihi: Fri Aug 16 23:52:46 2024
+
